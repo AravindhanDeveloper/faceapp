@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:BGFR:unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/BGFR/build/.transforms/a1176863f8249ba4f6a4e5755593e0f2/jetified-BGFR/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/BGFR/build/.transforms/a1176863f8249ba4f6a4e5755593e0f2/jetified-BGFR/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/BGFR/build/.transforms/a1176863f8249ba4f6a4e5755593e0f2/jetified-BGFR/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
